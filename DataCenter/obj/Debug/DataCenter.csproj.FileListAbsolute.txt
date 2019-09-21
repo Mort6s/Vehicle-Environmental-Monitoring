@@ -1,0 +1,13 @@
+E:\Programme\车载\Project\JingCloud\DataCenter\bin\Debug\DataCenter.exe.config
+E:\Programme\车载\Project\JingCloud\DataCenter\bin\Debug\DataCenter.exe
+E:\Programme\车载\Project\JingCloud\DataCenter\bin\Debug\DataCenter.pdb
+E:\Programme\车载\Project\JingCloud\DataCenter\obj\Debug\DataCenter.csprojResolveAssemblyReference.cache
+E:\Programme\车载\Project\JingCloud\DataCenter\obj\Debug\DataCenter.AdminNodeInfoForm.resources
+E:\Programme\车载\Project\JingCloud\DataCenter\obj\Debug\DataCenter.AdminTypeInfoForm.resources
+E:\Programme\车载\Project\JingCloud\DataCenter\obj\Debug\DataCenter.MainForm.resources
+E:\Programme\车载\Project\JingCloud\DataCenter\obj\Debug\DataCenter.NodeReceiveStatusForm.resources
+E:\Programme\车载\Project\JingCloud\DataCenter\obj\Debug\DataCenter.QueryHistoryForm.resources
+E:\Programme\车载\Project\JingCloud\DataCenter\obj\Debug\DataCenter.Properties.Resources.resources
+E:\Programme\车载\Project\JingCloud\DataCenter\obj\Debug\DataCenter.csproj.GenerateResource.Cache
+E:\Programme\车载\Project\JingCloud\DataCenter\obj\Debug\DataCenter.exe
+E:\Programme\车载\Project\JingCloud\DataCenter\obj\Debug\DataCenter.pdb
